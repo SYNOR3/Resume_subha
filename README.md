@@ -17,4 +17,4 @@ This is a simple HTML-based resume showcasing my skills, education, work experie
 
 ## Project Page
 [View Live Resume](https://roadmap.sh/projects/single-page-cv)
-*(Note: Replace the above link with your actual GitHub Pages URL if you’ve set it up. To enable GitHub Pages, go to your repository settings on GitHub, scroll to the "GitHub Pages" section, and set the source to the `main` branch.)*
+*(The above project is from Roadmap frontend project section)*
