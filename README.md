@@ -16,5 +16,5 @@ This is a simple HTML-based resume showcasing my skills, education, work experie
    The resume will display in your browser with sections for skills, education, experience, and links to my online profiles.
 
 ## Project Page
-[View Live Resume](https://github.com/SYNOR3/Resume_subha/blob/main/resume.html)
+[View Live Resume](https://roadmap.sh/projects/single-page-cv)
 *(Note: Replace the above link with your actual GitHub Pages URL if you’ve set it up. To enable GitHub Pages, go to your repository settings on GitHub, scroll to the "GitHub Pages" section, and set the source to the `main` branch.)*
