@@ -6,7 +6,7 @@ This is a simple HTML-based resume showcasing my skills, education, work experie
 1. **Clone the Repository**  
    Clone this repository to your local machine using:  
    ```
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/SYNOR3/Resume_subha/blob/main/resume.html
    ```
 2. **Open the Resume**  
    Navigate to the project folder and open `resume.html` in a web browser:  
@@ -16,5 +16,5 @@ This is a simple HTML-based resume showcasing my skills, education, work experie
    The resume will display in your browser with sections for skills, education, experience, and links to my online profiles.
 
 ## Project Page
-[View Live Resume](https://your-username.github.io/your-repository-name)  
+[View Live Resume](https://github.com/SYNOR3/Resume_subha/blob/main/resume.html)
 *(Note: Replace the above link with your actual GitHub Pages URL if you’ve set it up. To enable GitHub Pages, go to your repository settings on GitHub, scroll to the "GitHub Pages" section, and set the source to the `main` branch.)*
